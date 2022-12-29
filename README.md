@@ -1,4 +1,4 @@
-## Webpack Image Placeholder Plugin
+##  webpack-image-placeholder-plugin
 
 In JavaScript, import "\<width in pixel\>x\<height in pixel\>.png"
 ```javascript
