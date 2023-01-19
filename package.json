@@ -1,7 +1,7 @@
 {
   "name": "webpack-image-placeholder-plugin",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "webpack plugin that generate placeholder image from scratch",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,10 @@
   "homepage": "https://github.com/gy-chen/webpack-image-placeholder-plugin#readme",
   "dependencies": {
     "sharp": "^0.31.3"
-  }
+  },
+  "keywords": [
+    "webpack",
+    "image",
+    "placeholder"
+  ]
 }
